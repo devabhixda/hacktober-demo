@@ -4,6 +4,7 @@
 | Name        | Github Username |
 | ----------- | --------------- |
 | Abhi Jain   | devabhixda |
+| Rashi Saxena   | rashi1007|
 | Sarthak Jain   | sarthakj1904  |
 | Siddharth Singh   | siddharth0801 |
 | Shaily Bhaiya   | shailybhaiya |

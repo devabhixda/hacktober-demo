@@ -4,6 +4,7 @@
 | Name        | Github Username |
 | ----------- | --------------- |
 | Abhi Jain   | devabhixda |
+| Sarthak Jain   | sarthakj1904  |
 | Siddharth Singh   | siddharth0801 |
 | Shaily Bhaiya   | shailybhaiya |
 | Siddharth Porwal   | sidd8rth |

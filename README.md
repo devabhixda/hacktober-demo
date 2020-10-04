@@ -15,5 +15,6 @@
 | Vaibhav Tripathi  | vaibhavtripathi1209 |
 | Ivan Ganatra | ivanganatra|
 | Amina Faiz   | FAIZ113 |
+| Akhil Gupta   | ag7223836938 |
 | Saumya Mishra  | Saumya25mis |
 | Chirag Somani   | chiragsomani

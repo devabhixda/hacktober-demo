@@ -1,9 +1,7 @@
-# Attendees list
----
 
 | Name        | Github Username |
-| ----------- | --------------- |
 | Abhi Jain   | devabhixda |
+| Sayan Chandra   | s-chandr |
 | Rolit Trivedi   | Rolit19 |
 | Rashi Saxena   | rashi1007|
 | Sarthak Jain   | sarthakj1904  |

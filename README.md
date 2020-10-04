@@ -4,7 +4,6 @@
 | Name        | Github Username |
 | ----------- | --------------- |
 | Abhi Jain   | devabhixda |
-| shivani      | caroline1910 |
 | Sayan Chandra   | s-chandr |
 | Rolit Trivedi   | Rolit19 |
 | Rashi Saxena   | rashi1007|
@@ -19,3 +18,4 @@
 | Akhil Gupta   | ag7223836938 |
 | Saumya Mishra  | Saumya25mis |
 | Chirag Somani   | chiragsomani
+| Shivani Verma   | Caroline1910 |

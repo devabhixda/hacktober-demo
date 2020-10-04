@@ -4,6 +4,7 @@
 | Name        | Github Username |
 | ----------- | --------------- |
 | Abhi Jain   | devabhixda |
+| shivani      | caroline1910 |
 | Sayan Chandra   | s-chandr |
 | Rolit Trivedi   | Rolit19 |
 | Rashi Saxena   | rashi1007|

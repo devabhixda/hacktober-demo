@@ -1,5 +1,8 @@
+# Attendees list
+---
 
 | Name        | Github Username |
+| ----------- | --------------- |
 | Abhi Jain   | devabhixda |
 | Sayan Chandra   | s-chandr |
 | Rolit Trivedi   | Rolit19 |
@@ -13,3 +16,4 @@
 | Ivan Ganatra | ivanganatra|
 | Amina Faiz   | FAIZ113 |
 | Saumya Mishra  | Saumya25mis |
+| Chirag Somani   | chiragsomani
